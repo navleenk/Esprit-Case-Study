@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>CancelButton</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cancel Button</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>ErrorToast</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Error Toast</shortDescription>
+        <value>Unexpected Error has occurred. Please contact Admin.</value>
+    </labels>
+    <labels>
+        <fullName>Name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Opportunity Name</shortDescription>
+        <value>Opportunity Name</value>
+    </labels>
+    <labels>
+        <fullName>SaveButton</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Save Button</shortDescription>
+        <value>Save</value>
+    </labels>
+    <labels>
+        <fullName>Stage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Opportunity Stage</shortDescription>
+        <value>Opportunity Stage</value>
+    </labels>
+    <labels>
+        <fullName>SuccessToast</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Success Toast</shortDescription>
+        <value>Selected Opportunities have been successfully updated</value>
+    </labels>
+    <labels>
+        <fullName>UpdateButton</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Update Button</shortDescription>
+        <value>Update</value>
+    </labels>
+</CustomLabels>
