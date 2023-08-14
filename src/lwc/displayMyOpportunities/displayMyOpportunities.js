@@ -15,8 +15,8 @@ import OPPORTUNITY_OBJECT from "@salesforce/schema/Opportunity";
 import NAME_FIELD from "@salesforce/schema/Opportunity.Name";
 import STAGE_FIELD from "@salesforce/schema/Opportunity.StageName";
 // Apex Methods
-import apex_displayMyOpportunities from "@salesforce/apex/CTRL_MyOpportunities.getMyOpportunities";
-import apex_updateMyOpportunities from "@salesforce/apex/CTRL_MyOpportunities.updateMyOpportunities";
+import apex_displayMyOpportunities from "@salesforce/apex/CTRL_MyOpportunities.getOpportunities";
+import apex_updateMyOpportunities from "@salesforce/apex/CTRL_MyOpportunities.updateOpportunities";
 
 export default class DisplayMyOpportunities extends LightningElement {
   columns = [
