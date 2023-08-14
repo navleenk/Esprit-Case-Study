@@ -5,7 +5,7 @@
  * @created Aug 2023
  */
 @IsTest
-public with sharing class TestDataFactory {
+public class TestDataFactory {
     /**
      * Create a list of test opportunities
      *
