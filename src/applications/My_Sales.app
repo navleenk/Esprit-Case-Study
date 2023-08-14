@@ -17,5 +17,4 @@
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Task</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>My_Sales_UtilityBar1</utilityBar>
 </CustomApplication>
